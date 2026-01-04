@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+.center{
+	text-align: center;
+}
+.right{
+	text-align:right;
+}
+.blue{
+	background-color:blue;
+}
+.green{
+	background-color:green;
+}
+#t-image{
+	align-items:center;
+}
